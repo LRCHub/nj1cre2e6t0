@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "生命線",
+  "base_artist": "ReoNa",
+  "createdAt": "2026-03-23T23:59:43.346622Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "生命線",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/01_生命線_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "生命線",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/02_生命線_Reol.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "生命線(ReoNa ONE-MAN Concert 2023「ピルグリム」～3.6 day 逃げて逢おうね～)",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/03_生命線(ReoNa_ONE-MAN_Concert_2023「ピルグリム」~3.6_day_逃げて逢おうね~)_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "生命線 - Seimeisen",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/04_生命線_-_Seimeisen_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "生命線",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/05_生命線_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "生命線（ReoNa ONE-MAN Concert 2023「ピルグリム」～3.6 day 逃げて逢おうね～）",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/06_生命線(ReoNa_ONE-MAN_Concert_2023「ピルグリム」~3.6_day_逃げて逢おうね~)_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "生命線（ReoNa ONE-MAN Concert 2023「ピルグリム」～3.6 day 逃げて逢おうね～） - Seimeisen ReoNa ONE-MAN Concert 2023 Pilgrim 3.6 day Nigete aoune",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/07_生命線(ReoNa_ONE-MAN_Concert_2023「ピルグリム」~3.6_day_逃げて逢おうね~)_-_Seimeisen_ReoNa_ONE-MA_ReoNa.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "生命線",
+      "artist": "ReoNa",
+      "has_synced": false,
+      "path": "select/pl_01_生命線_ReoNa.txt"
+    }
+  ]
+}
